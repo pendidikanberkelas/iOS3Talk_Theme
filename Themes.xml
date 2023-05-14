@@ -4,11 +4,11 @@
 <themes>
 <data Xml="https://raw.githubusercontent.com/pendidikanberkelas/iOS3Talk_Theme/main/Xml/" Wall="https://raw.githubusercontent.com/pendidikanberkelas/iOS3Talk_Theme/main/Wall/" Screen="https://raw.githubusercontent.com/pendidikanberkelas/iOS3Talk_Theme/main/Screen/"/>
 <theme>
-<title>IOSTalk_Light1</title>
+<title>IOSTalk_Light</title>
 <date>27/11/2022</date>
 </theme>
 <theme>
-<title>IOSTalk_Light1</title>
+<title>IOSTalk_Dark</title>
 <date>27/11/2022</date>
 </theme>
 
